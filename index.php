@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
-<!-- Mirrored from transparency-initiative.org/tax/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Dec 2021 19:02:50 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
+
 <head>
   <link rel="profile" href="vocab.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -481,5 +481,5 @@
   <script src="js/js_fbpwiznwgzweuul4q2hom07boscy5lxl_gwsk4ohqbm.js"></script>
 </body>
 
-<!-- Mirrored from transparency-initiative.org/tax/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Dec 2021 19:03:42 GMT -->
+
 </html>
